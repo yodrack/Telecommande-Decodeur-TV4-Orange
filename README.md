@@ -89,4 +89,12 @@ bien choisir les mots employés car Google Assistant est assez capricieux et fai
 ![ifttt6a](https://user-images.githubusercontent.com/64202900/80115475-105e9500-8585-11ea-9a87-2075478303aa.PNG)
 ![ifttt6](https://user-images.githubusercontent.com/64202900/80114260-a98cac00-8583-11ea-924e-d3933b59cc92.PNG)
 
+## faire le lien avec Adafruit, donner votre nom_utilisateur et le code key
+
+puis faire le lien avec la commande de Google Assistant et le feed
+
+![ifttt8](https://user-images.githubusercontent.com/64202900/80126432-5fabc200-8593-11ea-9cf1-4ffc8039bf69.PNG)
+
+faire de même pour les commande nom de chaine et arret/marche
+
 # SUITE A VENIR ..............
