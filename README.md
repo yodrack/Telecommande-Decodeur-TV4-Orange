@@ -97,4 +97,34 @@ puis faire le lien avec la commande de Google Assistant et le feed
 
 faire de même pour les commande nom de chaine et arret/marche
 
-# SUITE A VENIR ..............
+# A ce stade, vous êtes à même de tester la liaison entre Google Assistant et Adafruit
+Dites Ok Google puis une phrase et vous pouvez constater que le Dashboard Adafruit réagit et affiche la commande reçue.
+Si ça ne marche pas, inutile d'aller plus loin, vous avez du rater une étape, vérifiez et recommencer
+
+# ESP8266 interfacé avec Adafruit
+
+Acheter un ESP8266 sur n'importe quel site (ESP01, ESP07, ESP12, ESP32 ça n'a pas d'imprtance les moins cher et le plus pratique est le ESP07)
+
+## Programmation de l'ESP
+Pour cela il faut télécharger l'IDE de Arduino sur votre PC et parametrer l'IDE pour la cible ESP8266 Generic
+
+### Le code est donné ci-après :
+il faut modifier le code pour l'adapter à votre environnement
+
+/*********************************** parametres du wifi *********************************/
+#define WLAN_SSID       "nom_de_votre_wifi"
+#define WLAN_PASS       "mot_de_passe"
+ 
+/*********************************** parametres du serveur Adafruit  *********************/
+#define AIO_SERVER      "io.adafruit.com"
+#define AIO_SERVERPORT  1883                   // use 8883 for SSL
+#define AIO_USERNAME    "aaaaaaaaaaaaaaaaa"              // mettre l'identifiant du compte
+#define AIO_KEY         "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx " //mettre la clé du compte
+
+
+/*********************************** adresse IP du decodeur relevé au debut  *********************/
+String url_livebox  = "192.168.nnn.nnn";       // IP de la box TV a récuper sur le reseau interne à mettre en Ip fixe
+
+
+
+; # SUITE A VENIR ..............
