@@ -113,12 +113,16 @@ il faut modifier le code pour l'adapter à votre environnement
 
 /*********************************** parametres du wifi *********************************/
 #define WLAN_SSID       "nom_de_votre_wifi"
+
 #define WLAN_PASS       "mot_de_passe"
  
 /*********************************** parametres du serveur Adafruit  *********************/
 #define AIO_SERVER      "io.adafruit.com"
+
 #define AIO_SERVERPORT  1883                   // use 8883 for SSL
+
 #define AIO_USERNAME    "aaaaaaaaaaaaaaaaa"              // mettre l'identifiant du compte
+
 #define AIO_KEY         "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx " //mettre la clé du compte
 
 
