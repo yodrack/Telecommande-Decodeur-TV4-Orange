@@ -24,18 +24,23 @@ YYY est le code de touche :
 
 116 : ON/OFF
 512 à 521 : touche 0 à touche 9
+
 402 : CH+
 403 : CH-
+
 115 : VOL+
 114 : VOL-
 113 : MUTE
+
 103 : UP
 108 : DOWN
 105 : LEFT
 116 : RIGHT
 352 : OK
+
 158 : BACK
 139 : MENU
+
 164 : PLAY/PAUSE
 168 : FBWD
 159 : FFWD
