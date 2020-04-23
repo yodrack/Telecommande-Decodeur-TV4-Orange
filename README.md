@@ -43,4 +43,12 @@ Récupération de l'adresse IP du décodeur :
 
 Aller dans l'interface de gestion de la box "http://192.168.1.1/" et mettre l'adresse du décodeur à la place de 192.168.nnn.mmm
 dans la ligne de commande au dessus.
-https://github.com/yodrack/Telecommande-Decodeur-TV4-Orange/issues/1
+l'image de l'interface de gestion du décodeur est ici https://github.com/yodrack/Telecommande-Decodeur-TV4-Orange/issues/1
+
+Creation d'un compte IFTTT
+
+Aller dans https://ifttt.com/ et créer un compte 
+bien noter le User_name qui servira par la suite
+
+Ensuite crrer un nouvelle applet
+
