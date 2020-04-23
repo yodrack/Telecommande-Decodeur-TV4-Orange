@@ -15,11 +15,11 @@ Le Decodeur TV4 se cpmporte comme un serveur web sur le réseau Wifi interne, il
 if faut envoyer les codes XXX, YYY et ZZZ au décodeur en fonction de la commande que l'on souhaite effectuer.
 avec :
 
-XXX est le code operation
+### XXX est le code operation
 
 01 : toute opération  ---  10 : demande d'état
 
-YYY est le code de touche :
+### YYY est le code de touche :
 
 116 : ON/OFF  
 512 à 521 : touche 0 à touche 9
@@ -33,7 +33,7 @@ YYY est le code de touche :
 
 164 : PLAY/PAUSE ---   168 : FBWD ---   159 : FFWD ---   167 : REC ---  393 : VOD
 
-ZZZ est le numéro_mode :
+### ZZZ est le numéro_mode :
 
 0 : envoi unique de touche  ---  1 : appui prolongé de touche ---   2 : relacher la touche après un appui prolongé
 
