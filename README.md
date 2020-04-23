@@ -53,14 +53,22 @@ Creation d'un compte IFTTT
 Aller dans https://ifttt.com/ et créer un compte 
 bien noter le User_name qui servira par la suite
 
+Ensuite crrer un nouvelle applet
+
 ![ifttt1](https://user-images.githubusercontent.com/64202900/80112156-13f01d00-8581-11ea-8163-270b14d93513.PNG)
+
+cliquer sur le plus pour choisir le service 
 
 ![ifttt2](https://user-images.githubusercontent.com/64202900/80112341-4a2d9c80-8581-11ea-9f82-bb095d5859d0.PNG)
 
+puis choisir le type de service
+
 ![ifttt3](https://user-images.githubusercontent.com/64202900/80112669-a85a7f80-8581-11ea-83c0-c6f823d99f43.PNG)
+
+et les parametres du service
 
 ![ifttt4](https://user-images.githubusercontent.com/64202900/80112503-76491d80-8581-11ea-89e6-ead94fcbfa48.PNG)
 
 
-Ensuite crrer un nouvelle applet
+
 
