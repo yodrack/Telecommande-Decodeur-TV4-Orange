@@ -50,6 +50,17 @@ dans la ligne de commande au dessus.
 ## Création d'un compte Adafruit et créer 4 feeds
 bien noter le User_name et le clé key qui servira par la suite
 
+![ada1](https://user-images.githubusercontent.com/64202900/80117684-c3c88900-8587-11ea-91a3-a2ce54f938f8.PNG)
+
+![ada2](https://user-images.githubusercontent.com/64202900/80117786-e35fb180-8587-11ea-8698-38cb205be3b5.PNG)
+
+![ada3](https://user-images.githubusercontent.com/64202900/80117866-fbcfcc00-8587-11ea-8c09-7655c2ada656.PNG)
+
+![ada4](https://user-images.githubusercontent.com/64202900/80117950-15711380-8588-11ea-94df-634db9d3f4c3.PNG)
+
+### il n'est pas nécessaire de créer un dashboard mais ça aide pour vérifier des commandes intermédiaires
+
+![ada5](https://user-images.githubusercontent.com/64202900/80118063-32a5e200-8588-11ea-85d2-c7fa8448ff64.PNG)
 ## Creation d'un compte IFTTT
 
 Aller dans https://ifttt.com/ et créer un compte 
