@@ -43,6 +43,8 @@ Récupération de l'adresse IP du décodeur :
 
 Aller dans l'interface de gestion de la box "http://192.168.1.1/" et mettre l'adresse du décodeur à la place de 192.168.nnn.mmm
 dans la ligne de commande au dessus.
+
+
 ![ip decodeur](https://user-images.githubusercontent.com/64202900/80109429-c4f4b880-857d-11ea-8944-d4afbb3d2994.PNG)
 
 
@@ -50,6 +52,8 @@ Creation d'un compte IFTTT
 
 Aller dans https://ifttt.com/ et créer un compte 
 bien noter le User_name qui servira par la suite
+
+
 
 Ensuite crrer un nouvelle applet
 
