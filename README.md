@@ -112,11 +112,13 @@ Pour cela il faut télécharger l'IDE de Arduino sur votre PC et parametrer l'ID
 il faut modifier le code pour l'adapter à votre environnement
 
 /*********************************** parametres du wifi *********************************/
+
 #define WLAN_SSID       "nom_de_votre_wifi"
 
 #define WLAN_PASS       "mot_de_passe"
  
 /*********************************** parametres du serveur Adafruit  *********************/
+
 #define AIO_SERVER      "io.adafruit.com"
 
 #define AIO_SERVERPORT  1883                   // use 8883 for SSL
@@ -127,6 +129,7 @@ il faut modifier le code pour l'adapter à votre environnement
 
 
 /*********************************** adresse IP du decodeur relevé au debut  *********************/
+
 String url_livebox  = "192.168.nnn.nnn";       // IP de la box TV a récuper sur le reseau interne à mettre en Ip fixe
 
 
