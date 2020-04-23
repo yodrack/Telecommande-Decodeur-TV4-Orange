@@ -93,7 +93,7 @@ bien choisir les mots employés car Google Assistant est assez capricieux et fai
 
 puis faire le lien avec la commande de Google Assistant et le feed
 
-![ifttt8](https://user-images.githubusercontent.com/64202900/80126432-5fabc200-8593-11ea-9cf1-4ffc8039bf69.PNG)
+![ifttt8](https://user-images.githubusercontent.com/64202900/80126861-d5b02900-8593-11ea-94d1-557a44b9dd0c.PNG)
 
 faire de même pour les commande nom de chaine et arret/marche
 
