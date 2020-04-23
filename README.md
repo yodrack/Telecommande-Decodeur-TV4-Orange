@@ -54,8 +54,7 @@ bien noter le User_name et le clé key qui servira par la suite
 
 ![ada2](https://user-images.githubusercontent.com/64202900/80117786-e35fb180-8587-11ea-8698-38cb205be3b5.PNG)
 
-![ada3](https://user-images.githubusercontent.com/64202900/80117866-fbcfcc00-8587-11ea-8c09-7655c2ada656.PNG)
-
+### bien respecter les noms des feeds
 ![ada4](https://user-images.githubusercontent.com/64202900/80117950-15711380-8588-11ea-94df-634db9d3f4c3.PNG)
 
 ### il n'est pas nécessaire de créer un dashboard mais ça aide pour vérifier des commandes intermédiaires
