@@ -47,6 +47,8 @@ dans la ligne de commande au dessus.
 
 ![ip decodeur](https://user-images.githubusercontent.com/64202900/80109429-c4f4b880-857d-11ea-8944-d4afbb3d2994.PNG)
 
+# Création d'un compte Adafruit
+bien noter le User_name et le clé key qui servira par la suite
 
 # Creation d'un compte IFTTT
 
@@ -70,5 +72,11 @@ bien noter le User_name qui servira par la suite
 ![ifttt4](https://user-images.githubusercontent.com/64202900/80112503-76491d80-8581-11ea-89e6-ead94fcbfa48.PNG)
 
 
+# Attention
+bien choisir les mots employés car Google Assistant est assez capricieux et fait des erreurs sur les termes comme télé, Tv, Video etc...
+
+# appuyer sur le  second + et choisir le service adafruit
+
+![ifttt6](https://user-images.githubusercontent.com/64202900/80114260-a98cac00-8583-11ea-924e-d3933b59cc92.PNG)
 
 
