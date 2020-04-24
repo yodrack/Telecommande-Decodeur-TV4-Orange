@@ -4,7 +4,7 @@ Méthode pour télécommander le décodeur à partir de Google assistant exemple
 # Objectif du projet :
 
 Avec les enceintes intelligentes comme Google Home ou Google Nest, il est facile d'effectuer des télécommandes par la voix de différents équipements dans la maison.
-Cependant, ORANGE ne propose pas de méthode pour télécommander ses décodeurs TV, (certains tutos sur internet fournissent une solution mais après une mise à jour de Orange, ces solutions ne marchent plus.
+Cependant, ORANGE ne propose pas de méthode pour télécommander ses décodeurs TV, (certains tutos sur internet fournissent une solution mais après une mise à jour de Orange, ces solutions ne marchent plus.)
 
 L'objectif de ce projet est de réaliser une solution qui permet d'envoyer des commandes vocales au décodeur pour mettre sous tension et changer les chaines.
 
@@ -103,7 +103,7 @@ Si ça ne marche pas, inutile d'aller plus loin, vous avez du rater une étape, 
 
 # ESP8266 interfacé avec Adafruit
 
-Acheter un ESP8266 sur n'importe quel site (ESP01, ESP07, ESP12, ESP32 ça n'a pas d'imprtance les moins cher et le plus pratique est le ESP07)
+Acheter un ESP8266 sur n'importe quel site (ESP01, ESP07, ESP12, ESP32 ça n'a pas d'imprtance les moins cher. Le plus pratique et immédiatement opérationnel est le ESP12 monté sur un kit de développement avec interface USB (Node MCU))(moins de 4€).
 
 ## Programmation de l'ESP
 Pour cela il faut télécharger l'IDE de Arduino sur votre PC et parametrer l'IDE pour la cible ESP8266 Generic
